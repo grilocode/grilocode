@@ -1,16 +1,49 @@
-## Hi there 👋
+# Miguel Grilo
 
-<!--
-**grilocode/grilocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Backend em formação com foco em Java, construindo uma base sólida em lógica de programação, Programação Orientada a Objetos e estruturas de dados.
+
+---
+
+## Tecnologias em estudo
+
+- Java (lógica de programação e POO)
+- Spring Boot (fundamentos e construção de APIs REST)
+- SQL (conceitos básicos e modelagem relacional)
+- HTTP & REST (requisições, métodos HTTP e estrutura de APIs)
+
+---
+
+## Projetos
+### Calculadora em Java
+
+Aplicação de linha de comando desenvolvida para praticar conceitos básicos de programação.
+
+- Operações básicas (soma, subtração, multiplicação e divisão)
+- Uso de estruturas condicionais e de repetição
+- Entrada de dados via terminal
+
+### Sistema Escolar em Java
+
+Sistema de cadastro de alunos com cálculo de médias, aplicando conceitos de POO e organização por pacotes.
+
+- Cadastro e listagem de estudantes
+- Cálculo automático de médias
+- Estrutura modular (modelo, servico, main)
+
+---
+
+## Idiomas
+
+- Inglês (em estudo)
+- Francês (planejado)
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/miguel-vs-grilo/
+- Email: miguelgrilotech@gmail.com
