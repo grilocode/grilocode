@@ -4,42 +4,58 @@
 
 ## Sobre mim
 
-Desenvolvedor Backend em formação com foco em Java, construindo uma base sólida em lógica de programação, Programação Orientada a Objetos e estruturas de dados.
+Desenvolvedor Backend em formação com foco em Java. Atualmente, estudo lógica de programação, Programação Orientada a Objetos, estruturas de dados e desenvolvimento de aplicações, buscando construir uma base sólida para atuar no desenvolvimento de software.
 
 ---
 
 ## Tecnologias em estudo
 
-- Java (lógica de programação e POO)
-- Spring Boot (fundamentos e construção de APIs REST)
-- SQL (conceitos básicos e modelagem relacional)
-- HTTP & REST (requisições, métodos HTTP e estrutura de APIs)
+- Java
+- Spring Boot
+- SQL
+- HTTP & REST
 
 ---
 
 ## Projetos
-### Calculadora em Java
 
-Aplicação de linha de comando desenvolvida para praticar conceitos básicos de programação.
+### Console RPG Java
 
-- Operações básicas (soma, subtração, multiplicação e divisão)
-- Uso de estruturas condicionais e de repetição
-- Entrada de dados via terminal
+Aplicação de RPG em linha de comando desenvolvida em Java, contendo sistema de combate por turnos, gerenciamento de inventário e interação entre personagens e inimigos.
 
-### Sistema Escolar em Java
+Conceitos aplicados:
+- Herança
+- Encapsulamento
+- Construtores
+- Collections (ArrayList)
+- Estruturas de repetição
+- Estruturas condicionais
+- Organização em múltiplas classes
 
-Sistema de cadastro de alunos com cálculo de médias, aplicando conceitos de POO e organização por pacotes.
+Funcionalidades:
+- Seleção de inimigos
+- Sistema de combate por turnos
+- Inventário
+- Uso de poções
+- Exibição de status do personagem
 
-- Cadastro e listagem de estudantes
+### Sistema Escolar Java
+
+Aplicação desenvolvida em Java para gerenciamento de estudantes, permitindo o cadastro de alunos, registro de notas e cálculo automático de médias.
+
+Funcionalidades:
+- Cadastro de estudantes
+- Registro de notas bimestrais
 - Cálculo automático de médias
-- Estrutura modular (modelo, servico, main)
+- Listagem de alunos cadastrados
 
----
-
-## Idiomas
-
-- Inglês (em estudo)
-- Francês (planejado)
+Conceitos utilizados:
+- Programação Orientada a Objetos
+- Organização em pacotes
+- Arrays
+- Métodos
+- Separação de responsabilidades
+- Regras de negócio
 
 ---
 
