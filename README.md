@@ -1,16 +1,36 @@
-## Hi there 👋
+<pre>
+MIGUEL GRILO
+============
 
-<!--
-**grilocode/grilocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação.
+Interessado em Engenharia de Software e Cibersegurança.
 
-Here are some ideas to get you started:
+---------------
+Entre em Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» GitHub     → <a href="https://github.com/grilocode">https://github.com/grilocode</a>
+» LinkedIn   → <a href="https://www.linkedin.com/in/miguel-vs-grilo/">https://linkedin.com/in/miguel-vs-grilo</a>
+» Email      → miguelgrilotech@gmail.com
+
+---------------
+Habilidades e Ferramentas
+
+» Linguagens:      Java
+» Banco de Dados:  PostgreSQL
+» Ferramentas:     Git
+
+---------------
+Projetos
+
+● RPG
+  ✦ Jogo de RPG por turnos desenvolvido em Java, com mecânicas de combate, gerenciamento de atributos, inventário e seleção
+de personagens.
+
+● Sistema Bancário
+  ✦ Aplicação bancária desenvolvida em Java, com operações de criação e gerenciamento de contas, depósitos, saques e 
+transferências.
+   
+---------------
+Obrigado pela visita!
+Aberto a novas oportunidades, desafios e colaborações.
+</pre>
